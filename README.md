@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 # Привет, меня зовут Макс Кудряшов!
 
-### О себе
-
 Программирую на C++ и Python.
 Обучаюсь на 3 курсе в НИУ ВШЭ на направлении "Прикладная математика".
 
@@ -36,9 +34,12 @@ Stack: `C++`, `SFML`
 
 ### [2. Pacman game](https://github.com/kudrmax/pac-man)
 
-Описание второго проекта
+Игра на основе существующей игры PacMan, созданная на языке C++ с визуализацией через SFML, с целью практики в ООП,
+паттернах (таких как state, compose, prototype и др.) и SFML.
 
 Stack: `C++`, `SFML`, различные паттерны
+
+![pacman.gif](images/pacman.gif)
 
 ### [3. Graph class](https://github.com/kudrmax/graph)
 
@@ -51,3 +52,5 @@ Stack: `C++`, `STL`
 Описание третьего проекта
 
 Stack: `Python`, `Numba`, `NumPy`
+
+![python.gif](images/kp3.jpg)
