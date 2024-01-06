@@ -15,8 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Favorite projects
+# Проекты
 
-### Wave Function Collapse Simulation
+## [1. Wave Function Collapse Simulation](https://github.com/kudrmax/wfc)
 
 Симуляция алгоритма волнового коллапса (WFC) для создания уникальных случайно сгенерированных паттернов на 2D-сетках.
+
+![wfc.gif](images%2Fwfc%2Fwfc.gif)
+
+## 2. Второй проект
+
+Описание второго проекта
+
+## 3. Второй проект
+
+Описание третьего проекта
