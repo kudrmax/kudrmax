@@ -1,4 +1,4 @@
-![](header.png) 
+<!-- ![](header.png) -->
 
 <!--
 **kudrmax/kudrmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Favorite projects
+
+### Wave Function Collapse Simulation
+
+Симуляция алгоритма волнового коллапса (WFC) для создания уникальных случайно сгенерированных паттернов на 2D-сетках.
