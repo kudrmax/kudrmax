@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ### О себе
 
-Некое описание на пару строк. Некое описание на пару строк. Некое описание на пару строк. Некое описание на пару строк.
-Сейчас обучаюсь на 3 курсе в НИУ ВШЭ по направлению "Прикладная математика".
+Программирую на C++ и Python.
+Обучаюсь на 3 курсе в НИУ ВШЭ на направлении "Прикладная математика".
 
-[Telegram](t.me/kudrmax) - [Email]()
+[Telegram](t.me/kudrmax)
 
 # Проекты
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 Stack: `C++`, `SFML`
 
-[//]: # (![wfc.gif]&#40;images%2Fwfc%2Fwfc.gif&#41;)
+![wfc.gif](images/wfc.gif)
 
 ### [2. Pacman game](https://github.com/kudrmax/pac-man)
 
