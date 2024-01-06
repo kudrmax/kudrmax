@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 # Привет, меня зовут Макс Кудряшов!
 
-
 ### О себе
 
 Некое описание на пару строк. Некое описание на пару строк. Некое описание на пару строк. Некое описание на пару строк.
@@ -31,12 +30,24 @@ Here are some ideas to get you started:
 
 Симуляция алгоритма волнового коллапса (WFC) для создания уникальных случайно сгенерированных паттернов на 2D-сетках.
 
-![wfc.gif](images%2Fwfc%2Fwfc.gif)
+Stack: `C++`, `SFML`
 
-### 2. Второй проект
+[//]: # (![wfc.gif]&#40;images%2Fwfc%2Fwfc.gif&#41;)
+
+### [2. Pacman game](https://github.com/kudrmax/pac-man)
 
 Описание второго проекта
 
-### 3. Второй проект
+Stack: `C++`, `SFML`, различные паттерны
+
+### [3. Graph class](https://github.com/kudrmax/graph)
 
 Описание третьего проекта
+
+Stack: `C++`, `STL`
+
+### [4. Эффективное использование Python для решения задач прикладной математики](https://github.com/kudrmax/applied-mathematics-python)
+
+Описание третьего проекта
+
+Stack: `Python`, `Numba`, `NumPy`
