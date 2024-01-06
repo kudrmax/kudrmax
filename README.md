@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 # Проекты
 
-### [1. Wave Function Collapse Simulation](https://github.com/kudrmax/wfc)
+## [1. Wave Function Collapse Simulation](https://github.com/kudrmax/wfc)
 
 Симуляция алгоритма волнового коллапса (WFC) для создания уникальных случайно сгенерированных паттернов на 2D-сетках.
 
@@ -32,7 +32,7 @@ Stack: `C++`, `SFML`
 
 ![wfc.gif](images/wfc.gif)
 
-### [2. Pacman game](https://github.com/kudrmax/pac-man)
+## [2. Pacman game](https://github.com/kudrmax/pac-man)
 
 Игра на основе существующей игры PacMan, созданная на языке C++ с визуализацией через SFML, с целью практики в ООП,
 паттернах (таких как state, compose, prototype и др.) и SFML.
@@ -41,13 +41,13 @@ Stack: `C++`, `SFML`, различные паттерны
 
 ![pacman.gif](images/pacman.gif)
 
-### [3. Graph class](https://github.com/kudrmax/graph)
+## [3. Graph class](https://github.com/kudrmax/graph)
 
 Описание третьего проекта
 
 Stack: `C++`, `STL`
 
-### [4. Эффективное использование Python для решения задач прикладной математики](https://github.com/kudrmax/applied-mathematics-python)
+## [4. Эффективное использование Python для решения задач прикладной математики](https://github.com/kudrmax/applied-mathematics-python)
 
 Описание третьего проекта
 
