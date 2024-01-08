@@ -47,9 +47,7 @@ Stack: `C++`, `SFML`, различные паттерны
 
 Stack: `C++`, `STL`
 
-## [4. Эффективное использование Python для решения задач прикладной математики](https://github.com/kudrmax/applied-mathematics-python)
-
-Описание третьего проекта
+## [4. Python для решения задач прикладной математики на Python](https://github.com/kudrmax/applied-mathematics-python)
 
 Stack: `Python`, `Numba`, `NumPy`
 
