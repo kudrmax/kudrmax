@@ -39,7 +39,9 @@ Stack: `C++`, `SFML`
 
 Stack: `C++`, `SFML`, различные паттерны
 
-![pacman.gif](images/pacman.gif)
+![pacman.png](images/pacman.png)
+
+[//]: # (![pacman.gif]&#40;images/pacman.gif&#41;)
 
 ## [3. Graph class](https://github.com/kudrmax/graph)
 
@@ -49,6 +51,11 @@ Stack: `C++`, `STL`
 
 ## [4. Python для решения задач прикладной математики на Python](https://github.com/kudrmax/applied-mathematics-python)
 
-Stack: `Python`, `Numba`, `NumPy`
+Stack: `Python`, `Numba`, `NumPy`, `Matplotlib`
 
-![python.gif](images/kp3.jpg)
+![fractals 2.png](images%2Ffractals%202.png)
+
+[//]: # (![fractals.png]&#40;images/fractals.png&#41;)
+
+
+[//]: # (![python.gif]&#40;images/kp3.jpg&#41;)
