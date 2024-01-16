@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 Stack: `C++`, `SFML`
 
-![wfc.gif](images/wfc.gif)
+![wfc.png](images%2Fwfc.png)
 
 ## [2. Pacman game](https://github.com/kudrmax/pac-man)
 
