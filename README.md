@@ -3,7 +3,7 @@
 Программирую на C++ и Python.
 Обучаюсь на 3 курсе в НИУ ВШЭ на направлении "Прикладная математика".
 
-[💬 Telegram](t.me/kudrmax)
+[Telegram](t.me/kudrmax)
 
 # Проекты
 
@@ -12,7 +12,7 @@
 Симуляция алгоритма волнового коллапса (WFC) для создания уникальных случайно сгенерированных паттернов на 2D-сетках.
 
 Stack: `C++`, `SFML`
-<p align="center"><img src="images/wfc.png" width="60%"></p>
+<p align="left"><img src="images/wfc.png" width="600px"></p>
 
 ## [2. Pacman game](https://github.com/kudrmax/pac-man)
 
@@ -21,7 +21,7 @@ Stack: `C++`, `SFML`
 
 Stack: `C++`, `SFML`, различные паттерны
 
-<p align="center"><img src="images/pacman.png" width="60%"></p>
+<p align="left"><img src="images/pacman.png" width="600px"></p>
 
 ## [3. Graph class](https://github.com/kudrmax/graph)
 
@@ -33,4 +33,4 @@ Stack: `C++`, `STL`
 
 Stack: `Python`, `Numba`, `NumPy`, `Matplotlib`
 
-<p align="center"><img src="images/fractals 2.png" width="60%"></p>
+<p align="left"><img src="images/fractals 2.png" width="600px"></p>
