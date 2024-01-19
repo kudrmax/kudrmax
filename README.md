@@ -1,26 +1,9 @@
-<!-- ![](header.png) -->
-
-<!--
-**kudrmax/kudrmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Привет, меня зовут Макс Кудряшов!
 
 Программирую на C++ и Python.
 Обучаюсь на 3 курсе в НИУ ВШЭ на направлении "Прикладная математика".
 
-[Telegram](t.me/kudrmax)
+[💬 Telegram](t.me/kudrmax)
 
 # Проекты
 
@@ -29,8 +12,7 @@ Here are some ideas to get you started:
 Симуляция алгоритма волнового коллапса (WFC) для создания уникальных случайно сгенерированных паттернов на 2D-сетках.
 
 Stack: `C++`, `SFML`
-
-![wfc.png](images%2Fwfc.png)
+<p align="center"><img src="images/wfc.png" width="60%"></p>
 
 ## [2. Pacman game](https://github.com/kudrmax/pac-man)
 
@@ -39,9 +21,7 @@ Stack: `C++`, `SFML`
 
 Stack: `C++`, `SFML`, различные паттерны
 
-![pacman.png](images/pacman.png)
-
-[//]: # (![pacman.gif]&#40;images/pacman.gif&#41;)
+<p align="center"><img src="images/pacman.png" width="60%"></p>
 
 ## [3. Graph class](https://github.com/kudrmax/graph)
 
@@ -53,9 +33,4 @@ Stack: `C++`, `STL`
 
 Stack: `Python`, `Numba`, `NumPy`, `Matplotlib`
 
-![fractals 2.png](images%2Ffractals%202.png)
-
-[//]: # (![fractals.png]&#40;images/fractals.png&#41;)
-
-
-[//]: # (![python.gif]&#40;images/kp3.jpg&#41;)
+<p align="center"><img src="images/fractals 2.png" width="60%"></p>
