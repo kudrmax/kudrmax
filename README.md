@@ -9,29 +9,35 @@
 
 ## [1. Wave Function Collapse Simulation](https://github.com/kudrmax/wfc)
 
+`C++`, `SFML`
+
 Симуляция алгоритма волнового коллапса (WFC) для создания уникальных случайно сгенерированных паттернов на 2D-сетках.
 
-Stack: `C++`, `SFML`
 <p align="left"><img src="images/wfc.png" width="600px"></p>
 
 ## [2. Pacman game](https://github.com/kudrmax/pac-man)
 
+`C++`, `SFML`, различные паттерны
+
 Игра на основе существующей игры PacMan, созданная на языке C++ с визуализацией через SFML, с целью практики в ООП,
 паттернах (таких как state, compose, prototype и др.) и SFML.
-
-Stack: `C++`, `SFML`, различные паттерны
 
 <p align="left"><img src="images/pacman.png" width="600px"></p>
 
 ## [3. Graph class](https://github.com/kudrmax/dijkstra)
 
+`C++`, `Google Tests`
+
 - Создание собственного класса Graph.
 - Реализация алгоритма Дейкстры для нахождение кратчайшего расстояние между двумя вершинами.
 
-Stack: `C++`, `Google Tests`
+| Граф                                                            | Кратчайший путь                                                 |
+|-----------------------------------------------------------------|-----------------------------------------------------------------|
+| <p align="left"><img src="images/graph1.png" width="200px"></p> | <p align="left"><img src="images/graph2.png" width="200px"></p> |
+
 
 ## [4. Python для решения задач прикладной математики на Python](https://github.com/kudrmax/applied-mathematics-python)
 
-Stack: `Python`, `Numba`, `NumPy`, `Matplotlib`
+`Python`, `Numba`, `NumPy`, `Matplotlib`
 
 <p align="left"><img src="images/fractals 2.png" width="600px"></p>
