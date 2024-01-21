@@ -23,11 +23,12 @@ Stack: `C++`, `SFML`, различные паттерны
 
 <p align="left"><img src="images/pacman.png" width="600px"></p>
 
-## [3. Graph class](https://github.com/kudrmax/graph)
+## [3. Graph class](https://github.com/kudrmax/dijkstra)
 
-Создание собственного класса Graph, с целью отработки использования стандартных контейнеров из `STL`.
+- Создание собственного класса Graph.
+- Реализация алгоритма Дейкстры для нахождение кратчайшего расстояние между двумя вершинами.
 
-Stack: `C++`, `STL`
+Stack: `C++`, `Google Tests`
 
 ## [4. Python для решения задач прикладной математики на Python](https://github.com/kudrmax/applied-mathematics-python)
 
