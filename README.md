@@ -7,7 +7,7 @@
 
 # Проекты
 
-## [1. Wave Function Collapse Simulation](https://github.com/kudrmax/wfc)
+## [Wave Function Collapse Simulation](https://github.com/kudrmax/wfc)
 
 `C++`, `SFML`
 
@@ -15,7 +15,7 @@
 
 <p align="left"><img src="images/wfc.png" width="600px"></p>
 
-## [2. Pacman game](https://github.com/kudrmax/pac-man)
+## [Pacman game](https://github.com/kudrmax/pac-man)
 
 `C++`, `SFML`, различные паттерны
 
@@ -24,7 +24,7 @@
 
 <p align="left"><img src="images/pacman.png" width="600px"></p>
 
-## [3. Graph class](https://github.com/kudrmax/dijkstra)
+## [Graph class](https://github.com/kudrmax/dijkstra)
 
 `C++`, `Google Tests`
 
@@ -36,7 +36,7 @@
 | <p align="left"><img src="images/graph1.png" width="200px"></p> | <p align="left"><img src="images/graph2.png" width="200px"></p> |
 
 
-## [4. Python для решения задач прикладной математики на Python](https://github.com/kudrmax/applied-mathematics-python)
+## [Python для решения задач прикладной математики на Python](https://github.com/kudrmax/applied-mathematics-python)
 
 `Python`, `Numba`, `NumPy`, `Matplotlib`
 
