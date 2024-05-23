@@ -2,7 +2,8 @@
 
 Обучаюсь на 3 курсе в НИУ ВШЭ на направлении "Прикладная математика" (GPT: 7.98)
 
-[Telegram](t.me/kudrmax)
+- LeetCode: https://leetcode.com/u/kudrmax/
+- Telegram: https://t.me/kudrmax
 
 ## Проекты
 
