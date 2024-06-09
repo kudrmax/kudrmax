@@ -10,6 +10,7 @@
 ### Python
 
 - [Python для решения задач прикладной математики на Python](https://github.com/kudrmax/applied-mathematics-python)
+- [Web-приложения для отслеживанию курсов валют](https://github.com/kudrmax/exchange-rate-synchronizer)
 - [Решение различных задач численными методами](https://github.com/kudrmax/numerical-methods)
 
 ### C++
