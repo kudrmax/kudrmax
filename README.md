@@ -7,19 +7,27 @@
 
 # Проекты на Python
 
-### [1. Прикладная математика на Python](https://github.com/kudrmax/applied-mathematics-python)
+### [1. HTTP API и Telegram бот для управления контактами](https://github.com/kudrmax/crm)
+
+API на FastAPI для управления контактами — сохранение данных о людях, ведение заметок после встреч, статистика по взаимодействиям и т.д. Telegram bot, который использует это API.
+
+`Python`, `FastAPI`, `SQLAlchemy`, `Pydantic`, `PostgreSQL`, `Aiogram`, `Requests`, `Docker`, `Pytest`, `Alembic`
+
+### [2. Tender Management API](https://github.com/kudrmax/tenders/)
+
+HTTP API для сервиса, в котором компании размещают тендеры на оказание услуг, а пользователи и другие компании выдвигают свои предложения по выполнению этих услуг.
+
+`Python`, `FastAPI`, `SQLAlchemy`, `Pydantic`
+
+
+### [3. Прикладная математика на Python](https://github.com/kudrmax/applied-mathematics-python)
 
 Решения различных задач прикладной математики и физики на Python (моделирование, расчеты, симуляция и т. д.). Целью проекта являлась практика в написании _эффективного_ и _быстрого_ кода.
 
 `Python`, `NumPy`, `Numba`, `SciPy`, `Matplotlib`
 
-### [2. Currency Exchange App](https://github.com/kudrmax/exchange-rate-synchronizer)
 
-Веб-приложение, написано с целью отработки написание REST API через FastAPI, предоставляет интерфейс для получения данных о курсах валют за выбранный период, а также для построения графиков относительных изменений курсов валют.
-
-`Python`, `FastAPI`, `SQLAlchemy`, `Pydantic`, `SQLite`, `Matplotlib`
-
-### [3. Численные методы на Python](https://github.com/kudrmax/numerical-methods)
+### [4. Численные методы на Python](https://github.com/kudrmax/numerical-methods)
 
 Решение различных задач численными методами на Python.
 
